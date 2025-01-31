@@ -1,0 +1,36 @@
+# SemesterLabs
+
+This folder contains Java programs developed as part of Programming Fundamentals lab work. Each folder represents a lab session, covering various beginner-level concepts and problem-solving exercises.
+
+## 📂 Repository Structure
+This section is organized into **12 lab folders**, with each folder containing:
+
+🔹 **Lab Activities** – Tasks performed during lab sessions focusing on Java fundamentals.
+
+🔹 **Self-Solved Tasks** – Additional challenges to reinforce concepts learned in each lab.
+
+---
+
+## 📝 Lab Folders
+
+### **Lab 1: Introduction to Java & IDE Setup**
+🚀 Installing Java and setting up IDE (e.g., IntelliJ, Eclipse, VS Code)  
+📝 Understanding Java syntax and structure  
+🛠️ Running test codes to check installation  
+
+### **Lab 2: Java Basics & User Interaction**
+- Identifying basic elements in a Java program (comments, reserved words, identifiers, etc.).
+- Using variables and constants in program development.
+- Communicating with the user by using the **Scanner class**.
+- Understanding useful Java concepts such as input handling and basic program structure.
+
+---
+
+## 🌟 Key Features
+
+🔶 **Basic Java Syntax** – Writing and understanding Java programs from scratch.  
+📥 **User Input Handling** – Using the `Scanner` class for interactive programs.  
+🧠 **Problem-Solving** – Beginner-level challenges to build logic and programming skills.  
+📑 **Structured Learning** – Labs are sequenced to gradually introduce key Java concepts.  
+
+---
