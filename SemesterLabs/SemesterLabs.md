@@ -24,6 +24,17 @@ This section is organized into **12 lab folders**, with each folder containing:
 - Communicating with the user by using the **Scanner class**.
 - Understanding useful Java concepts such as input handling and basic program structure.
 
+### **Lab 3: Literals, Operators, and Type Conversion**
+- Demonstrate the concept of literals.
+- Write expressions using various operators (arithmetic, increment/decrement).
+- Demonstrate the type conversion used in program.
+- Display formatted output on screen.
+
+### **Lab 4: Selection Control Structures**
+- Construct boolean expressions to evaluate a given condition.
+- Construct if and if-else-if statements to perform a specific task.
+- Construct a switch statement.
+
 ---
 
 ## 🌟 Key Features
