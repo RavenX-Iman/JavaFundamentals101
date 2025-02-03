@@ -5,9 +5,11 @@ This folder contains Java programs developed as part of Programming Fundamentals
 ## 📂 Repository Structure
 This section is organized into **12 lab folders**, with each folder containing:
 
-🔹 **Lab Activities** – Tasks performed during lab sessions focusing on Java fundamentals.
+🔹 **Lab Activities** 
+  – Tasks performed during lab sessions focusing on Java fundamentals.
 
-🔹 **Self-Solved Tasks** – Additional challenges to reinforce concepts learned in each lab.
+🔹 **Self-Solved Tasks**
+  – Additional challenges to reinforce concepts learned in each lab.
 
 ---
 
@@ -19,21 +21,27 @@ This section is organized into **12 lab folders**, with each folder containing:
 🛠️ Running test codes to check installation  
 
 ### **Lab 2: Java Basics & User Interaction**
-- Identifying basic elements in a Java program (comments, reserved words, identifiers, etc.).
-- Using variables and constants in program development.
-- Communicating with the user by using the **Scanner class**.
-- Understanding useful Java concepts such as input handling and basic program structure.
+✔️ Identifying basic elements in a Java program (comments, reserved words, identifiers, etc.).  
+✔️ Using variables and constants in program development.  
+✔️ Communicating with the user by using the **Scanner class**.  
+✔️ Understanding useful Java concepts such as input handling and basic program structure.  
 
 ### **Lab 3: Literals, Operators, and Type Conversion**
-- Demonstrate the concept of literals.
-- Write expressions using various operators (arithmetic, increment/decrement).
-- Demonstrate the type conversion used in program.
-- Display formatted output on screen.
+✔️ Demonstrate the concept of literals.  
+✔️ Write expressions using various operators (arithmetic, increment/decrement).  
+✔️ Demonstrate the type conversion used in program.  
+✔️ Display formatted output on screen.  
 
 ### **Lab 4: Selection Control Structures**
-- Construct boolean expressions to evaluate a given condition.
-- Construct if and if-else-if statements to perform a specific task.
-- Construct a switch statement.
+✔️ Construct boolean expressions to evaluate a given condition.  
+✔️ Construct if and if-else-if statements to perform a specific task.  
+✔️ Construct a switch statement.  
+
+### **Lab 5: Repetition Control Structures**
+✔️ Implement `while` loops with variations such as counter-controlled, sentinel-controlled, and flag-controlled loops.  
+✔️ Use `do-while` loops for executing statements at least once.  
+✔️ Write `for` loops for structured iteration.  
+✔️ Utilize `break` and `continue` statements to control loop execution.  
 
 ---
 
