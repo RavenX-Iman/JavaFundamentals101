@@ -16,8 +16,8 @@ public class pay {
         if (hours<=40) {
             pay= hours*payrate;
             
-        } else {
-            pay=(hours-40)*(1.5*payrate) + 40*payrate;           
+        } else { //overtime
+            pay=(hours-40)*(1.5*payrate) + 40*payrate; //pay for 40 hours + pay for overtime 
         }
         //displaying result
         System.out.println("you have earned $"+ pay);
